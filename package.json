@@ -1,0 +1,27 @@
+{
+  "name": "homebridge-evohome-modern",
+  "displayName": "Homebridge Evohome Modern",
+  "version": "0.1.0",
+  "description": "Modern Homebridge plugin for Honeywell / Resideo Evohome.",
+  "license": "MIT",
+  "author": "Tamás and ChatGPT",
+  "homepage": "https://github.com/mtb11969-dev/homebridge-evohome-modern",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtb11969-dev/homebridge-evohome-modern.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mtb11969-dev/homebridge-evohome-modern/issues"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "evohome",
+    "honeywell",
+    "resideo"
+  ],
+  "engines": {
+    "node": ">=22.0.0",
+    "homebridge": ">=2.0.0"
+  }
+}

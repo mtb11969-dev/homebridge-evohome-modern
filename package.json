@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Modern Homebridge plugin for Honeywell / Resideo Evohome.",
   "license": "MIT",
-  "author": "Tamás and ChatGPT",
+  "author": "Tamás",
   "homepage": "https://github.com/mtb11969-dev/homebridge-evohome-modern",
   "repository": {
     "type": "git",
